@@ -50,6 +50,18 @@ Generated statistical summaries and value counts, ran univariate analysis (histo
 - Office Supplies and the Consumer segment account for the highest order volumes, but a high order count does not necessarily mean higher profitability per order.
 - Outliers in Sales and Profit (around 11.6% and 18.8% of the data, respectively) appear to reflect real business activity rather than data quality issues, so they were retained for the analysis.
 
+
+## Sample Visualizations
+
+### Sales Distribution
+![Sales Distribution](reports/images/sales_distribution.png)
+
+### Discount vs Profit
+![Discount vs Profit](reports/images/discount_vs_profit.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](reports/images/correlation_heatmap.png)
+
 ## How to Run
 
 1. Clone this repository
