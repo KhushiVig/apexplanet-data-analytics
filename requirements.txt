@@ -1,5 +1,4 @@
 pandas
-SQLAlchemy
-jupyter
-notebook
-ipykernel
+numpy
+matplotlib
+seaborn
