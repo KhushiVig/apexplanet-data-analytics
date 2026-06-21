@@ -72,6 +72,6 @@ Generated statistical summaries and value counts, ran univariate analysis (histo
 ## Author
 
 **Khushi Vig**
-B.Tech, Electronics and Communication Engineering, GTBIT, GGSIPU
-ApexPlanet Data Analytics Internship Program 2026
-```
+- B.Tech, Electronics and Communication Engineering
+- GTBIT, GGSIPU
+- ApexPlanet Data Analytics Internship Program 2026
