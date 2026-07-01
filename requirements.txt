@@ -2,3 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
+plotly
+SQLAlchemy
+jupyter
+notebook
+ipykernel
