@@ -4,6 +4,13 @@
 **Programme:** Data Analytics Internship 2026
 **Submitted by:** Khushi Vig
 
+## Demo and Links
+
+- **Demo Video:** [https://youtu.be/nnnuDrR_q-Q](https://youtu.be/nnnuDrR_q-Q)
+- **Power BI Dashboard:** [`dashboards/superstore_executive_dashboard.pbix`](dashboards/superstore_executive_dashboard.pbix) (open in Power BI Desktop to explore)
+- **Executive Report:** [`reports/Retail_Sales_Analytics_Executive_Report.pdf`](reports/Retail_Sales_Analytics_Executive_Report.pdf)
+- **Final Presentation:** [`reports/KhushiVig_ApexPlanet_Presentation.pptx`](reports/KhushiVig_ApexPlanet_Presentation.pptx)
+
 ## Overview
 
 This repository contains my work for the ApexPlanet Data Analytics Internship, built around the Sample Superstore dataset. This repository covers all five tasks: Task 1 (environment setup, data cleaning, and exploratory data analysis), Task 2 (SQL extraction and Python-database integration), Task 3 (Python visualization and an interactive Power BI dashboard), Task 4 (statistical analysis, time series forecasting, customer segmentation, and predictive modelling), and Task 5 (a consolidated executive report and an automated data refresh pipeline).
