@@ -102,3 +102,16 @@
 2026-08-24 06:30:14,243 | INFO | Churn model refreshed. Accuracy = 0.7900, Recall = 0.1633
 2026-08-24 06:30:14,267 | INFO | Exported KPI report workbook to /home/runner/work/apexplanet-data-analytics/apexplanet-data-analytics/outputs/pipeline_exports/apexplanet_pipeline_report_20260824_063014.xlsx
 2026-08-24 06:30:14,267 | INFO | Pipeline run completed successfully.
+2026-08-31 11:55:40,875 | INFO | Pipeline run started.
+2026-08-31 11:55:40,875 | INFO | Extracting data from raw source: /home/runner/work/apexplanet-data-analytics/apexplanet-data-analytics/data/raw/sample_-_superstore.xlsx
+2026-08-31 11:55:44,084 | INFO | Extracted 10194 rows and 21 columns.
+2026-08-31 11:55:44,084 | INFO | Cleaning dataset.
+2026-08-31 11:55:44,146 | INFO | No missing values found in core numeric columns.
+2026-08-31 11:55:44,235 | INFO | Saved cleaned dataset to /home/runner/work/apexplanet-data-analytics/apexplanet-data-analytics/data/processed/cleaned_superstore.csv
+2026-08-31 11:55:44,235 | INFO | Loading cleaned data into SQLite database: /home/runner/work/apexplanet-data-analytics/apexplanet-data-analytics/superstore.db
+2026-08-31 11:55:44,316 | INFO | Database refresh complete.
+2026-08-31 11:55:44,321 | INFO | KPI summary computed. Total Sales = 2326534.35, Total Profit = 292296.81
+2026-08-31 11:55:44,336 | INFO | Refreshing churn classification model.
+2026-08-31 11:55:44,405 | INFO | Churn model refreshed. Accuracy = 0.7900, Recall = 0.1633
+2026-08-31 11:55:44,434 | INFO | Exported KPI report workbook to /home/runner/work/apexplanet-data-analytics/apexplanet-data-analytics/outputs/pipeline_exports/apexplanet_pipeline_report_20260831_115544.xlsx
+2026-08-31 11:55:44,434 | INFO | Pipeline run completed successfully.
